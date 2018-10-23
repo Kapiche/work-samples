@@ -1,2 +1,2 @@
 # work-samples
-This repository houses our employee tests
+This repository houses our candidate challenges
