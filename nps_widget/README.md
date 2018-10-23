@@ -10,9 +10,10 @@ A quick snapshot of the design is below:
 
 ![NPS widget design](https://i.gyazo.com/fa7cc8595a4e4483aa7d30f8ba7033ba.png)
 
-Please implement this in a GitHub repository (or similar) and link us to your code when
+Please implement this in a shareable, non-public format and send it to us when
 you are done. There should be a command to run your app
-(something like npm run dev for example).
+(something like npm run dev for example). Please don't post your code on the public 
+internet. It makes our job much harder!
 
 ## The Details
 * The login page should accept any valid email address and any non-empty password to
